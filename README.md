@@ -1,4 +1,4 @@
-# Common linux issues fixes
+# Same name of the file with spaces instead of underlines, can be shortened as well
 
 List of issues and fixes of common problems in linux environments. The objective of this repo is to gather information about errors and tricky scenarios when using common linux distributions.
 
