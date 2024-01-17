@@ -2,7 +2,12 @@
 
 ## Context
 
-Sometimes when using `sudo apt update` or `sudo apt upgrade` to run app updates, a error message "debconf: DbDriver "config": /var/cache/debconf/config.dat is locked by another process: Resource temporarily unavailable" is visible. This situation is usually caused when a process is using the file mentioned.
+Sometimes when using `sudo apt update` or `sudo apt upgrade` to run app updates, a error message:
+
+```
+debconf: DbDriver "config": /var/cache/debconf/config.dat is locked by another process: Resource temporarily unavailable
+```
+is visible. This situation is usually caused when a process is using the file mentioned.
 
 ## More info
 
