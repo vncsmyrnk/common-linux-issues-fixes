@@ -1,4 +1,4 @@
-# Same name of the file with spaces instead of underlines, can be shortened as well
+# Common linux issues and fixes
 
 List of issues and fixes of common problems in linux environments. The objective of this repo is to gather information about errors and tricky scenarios when using common linux distributions.
 
@@ -7,7 +7,7 @@ List of issues and fixes of common problems in linux environments. The objective
 Each situation is detailed in its own file. The name of the file must help understand the problem. The file scructure must follow the design below:
 
 ```markdown
-# configdat is locked
+# Same name of the file with spaces instead of underlines, can be shortened as well
 
 ## Context
 
